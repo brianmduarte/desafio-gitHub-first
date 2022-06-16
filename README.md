@@ -1,4 +1,4 @@
-# Repositório para desenvolvimento de projeto Git/GitHub
+# Repositório para desenvolvimento de projeto Git/GitHub 👨‍💻
 Desafio criado para o projeto
 
 **Links úteis:
